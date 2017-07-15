@@ -4,9 +4,14 @@
     "Anderson Ismael <aicoutos@users.noreply.github.com>"
   ],
   "description": "Bootstrap dist files and jQuery",
-  "main": "dist/css/bootstrap.min.css",
+  "main": "",
+  "main": [
+    "css/bootstrap.min.css",
+    "js/jquery.min.js",
+    "js/bootstrap.min.js"
+  ],
   "keywords": [
-    "bootstrap"
+    "bootstrap","jquery"
   ],
   "license": "MIT",
   "homepage": "https://github.com/aicoutos/bootstrap-dist",
