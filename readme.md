@@ -1,4 +1,4 @@
-# bootstrap-dist
+# bootstrap-wire
 Bootstrap and jQuery dist files
 
 # wiredep
