@@ -1,5 +1,5 @@
 # bootstrap-wire
-Bootstrap and jQuery dist files
+Bootstrap v3.2.7 and jQuery v3.2.1 dist files
 
 # bower
 ```
