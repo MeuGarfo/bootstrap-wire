@@ -2,7 +2,7 @@
 Bootstrap and jQuery dist files
 
 # wiredep
-add this code to your file.html
+add this code to your header.php
 ```
 <!-- bower:css -->
 <!-- endbower -->
@@ -11,5 +11,5 @@ add this code to your file.html
 ```
 then...
 ```
-wiredep -s file.html
+wiredep -s header.php
 ```
