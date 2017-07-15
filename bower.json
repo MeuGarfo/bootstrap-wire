@@ -1,9 +1,9 @@
 {
-  "name": "bootstrap-dist",
+  "name": "bootstrap-wire",
   "authors": [
     "Anderson Ismael <aicoutos@users.noreply.github.com>"
   ],
-  "description": "Bootstrap and jQuery dist files",
+  "description": "",
   "main": "",
   "main": [
     "css/bootstrap.min.css",
