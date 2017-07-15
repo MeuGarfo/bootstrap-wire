@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-dist",
+  "authors": [
+    "Anderson Ismael <aicoutos@users.noreply.github.com>"
+  ],
+  "description": "Bootstrap dist files and jQuery",
+  "main": "dist/css/bootstrap.min.css",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aicoutos/bootstrap-dist",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
