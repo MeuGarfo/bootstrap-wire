@@ -3,7 +3,7 @@
   "authors": [
     "Anderson Ismael <aicoutos@users.noreply.github.com>"
   ],
-  "description": "Bootstrap dist files and jQuery",
+  "description": "Bootstrap and jQuery dist files",
   "main": "",
   "main": [
     "css/bootstrap.min.css",

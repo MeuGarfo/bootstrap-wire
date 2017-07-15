@@ -1,8 +1,8 @@
 # bootstrap-dist
-Bootstrap dist files and jQuery
+Bootstrap and jQuery dist files
 
 # wiredep
-Add to your file.html code
+Add this code to your file.html
 ```
 <!-- bower:css -->
 <!-- endbower -->
