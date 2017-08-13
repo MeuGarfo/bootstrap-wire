@@ -7,7 +7,6 @@
   "main": "",
   "main": [
     "css/bootstrap.min.css",
-    "js/jquery.min.js",
     "js/bootstrap.min.js"
   ],
   "keywords": [
@@ -21,5 +20,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+    "dependencies": {
+    "jquery": ">=1.9.1"
+  }
 }
