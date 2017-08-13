@@ -1,5 +1,5 @@
 # bootstrap-wire
-Bootstrap v3.2.7 and jQuery v3.2.1 dist files
+Bootstrap v3.2.7
 
 # bower
 ```
@@ -14,7 +14,7 @@ add this code to your header.php
 <!-- bower:js -->
 <!-- endbower -->
 ```
-then...
+then execute...
 ```
 wiredep -s header.php
 ```
